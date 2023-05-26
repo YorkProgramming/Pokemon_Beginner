@@ -1,0 +1,1 @@
+Simple pokemon app that practices with JavaScript 

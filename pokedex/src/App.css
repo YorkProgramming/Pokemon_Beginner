@@ -1,0 +1,10 @@
+.container {
+  justify-content: center;
+  text-align: center;
+  background-color: darkgray;
+  
+}
+.title {
+  color: red;
+  font-style: bold;
+}
